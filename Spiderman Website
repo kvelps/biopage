@@ -6,19 +6,6 @@
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 
-<nav>
-  <ul>
-    <li><a href="https://www.marvel.com/articles/comics/today-in-marvel-history-spider-man-s-first-appearance?msclkid=ada9bb89d08911ecb2d770e5856241ad"><b>Marvel</b></a></li>
-    <li><a href="https://www.marvel.com/characters/spider-man-peter-parker">Character</a></li>
-    <li><a href="https://www.cbr.com/the-many-origins-of-spider-man-a-history/?msclkid=11d8e6d1d08a11ec99bacfc8f52218ac">Origins</a></li>
-    <li><a href="https://www.liveabout.com/spider-man-profile-804271">Live About</a></li>
-    <li><a href="https://form.123formbuilder.com/6159281/form">Contact Us</a></li>
-
-      </figure></a>
-
-  </ul>
-</nav>
-
 <body>
     <header>
       <h1 class="page-title">Spider-Man</h1>
@@ -52,7 +39,21 @@
             first Spider-Man with Tobey Maguire, "With great power, comes great responsibility." This is something that I had been missing from the pervious movies. As a huge fan myself, I wanted to see more of that internal struggle with the character. This was given to me in the Tom Holland Spider-Man character. The newest
             movie that was just released on December 17th, 2021 brought back some of our favorite villians and.....ALL THREE SPIDER-MEN!!! This was a HUGE deal for MCU fans. The three heros worked together to save the world, yet again, and in the end, we see our newest Spider-Man face the most difficult task of all...but I
             won't spoil that for you. GO WATCH IT!!!"</p>
-          <center><iframe width="800" height="450" src="https://www.youtube.com/embed/JfVOs4VSpmA" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+          <center><iframe width="800" height="450" src="https://www.youtube.com/embed/JfVOs4VSpmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
     </div>
+
+      <nav>
+      <ul>
+        <li><a href="https://www.marvel.com/articles/comics/today-in-marvel-history-spider-man-s-first-appearance?msclkid=ada9bb89d08911ecb2d770e5856241ad"><b>Marvel</b></a></li>
+        <li><a href="https://www.marvel.com/characters/spider-man-peter-parker">Character</a></li>
+        <li><a href="https://www.cbr.com/the-many-origins-of-spider-man-a-history/?msclkid=11d8e6d1d08a11ec99bacfc8f52218ac">Origins</a></li>
+        <li><a href="https://www.liveabout.com/spider-man-profile-804271">Live About</a></li>
+        <li><a href="https://form.123formbuilder.com/6159281/form">Contact Us</a></li>
+
+       
+          </figure></a>
+
+      </ul>
+    </nav>
   </body>
 </html>
